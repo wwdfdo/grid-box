@@ -288,29 +288,80 @@ const heatmap = () => {
               </div>
               <div>
                 {" "}
-                <img src={nft53} alt="" />
+                <img src={nft54} alt="" />
+              </div>
+              <div>
+                <img src={nft56} alt="" />
+              </div>
+              <div>
+                <img src={nft55} alt="" />
+              </div>
+              <div>
+                <img src={nft56} alt="" />
               </div>
             </div>
             <div>
               {" "}
               <img src={nft55} alt="" />
             </div>
+            <div>
+              {" "}
+              <img src={nft56} alt="" />
+            </div>
+            <div>
+              {" "}
+              <img src={nft57} alt="" />
+            </div>
+            <div>
+              {" "}
+              <img src={nft51} alt="" />
+            </div>
           </div>
           <div className=" bg-red-500 grid grid-cols-2 grid-rows-2">
-            <div></div>
-            <div></div>
-            <div className=" bg-yellow-200 grid grid-cols-2 grid-rows-2">
-              <div></div>
-              <div className=" bg-pink-600 grid grid-cols-2 grid-rows-2">
-                <div></div>
-                <div className=" bg-purple-600"></div>
-                <div></div>
-                <div></div>
-              </div>
-              <div></div>
-              <div></div>
+            <div>
+              {" "}
+              <img src={nft4} alt="" />
             </div>
-            <div></div>
+            <div>
+              {" "}
+              <img src={nft5} alt="" />
+            </div>
+            <div className=" bg-yellow-200 grid grid-cols-2 grid-rows-2">
+              <div>
+                {" "}
+                <img src={nft6} alt="" />
+              </div>
+              <div className=" bg-pink-600 grid grid-cols-2 grid-rows-2">
+                <div>
+                  {" "}
+                  <img src={nft10} alt="" />
+                </div>
+                <div className=" bg-purple-600">
+                  {" "}
+                  <img src={nft11} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft12} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft13} alt="" />
+                </div>
+              </div>
+              <div>
+                {" "}
+                <img src={nft14} alt="" />
+              </div>
+              <div>
+                {" "}
+                <img src={nft15} alt="" />
+              </div>
+            </div>
+            <div>
+              {" "}
+              <img src={nft17} alt="" />
+            </div>
           </div>
         </div>
       </div>
