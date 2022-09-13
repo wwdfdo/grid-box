@@ -46,16 +46,103 @@ const heatmap = () => {
         <div className=" bg-red-500 grid grid-cols-2">
           <div className=" bg-blue-500 grid grid-rows-2">
             <div className=" bg-black grid grid-cols-2">
-              <div>
-                <img src={nft1} alt="" />
+              <div className="grid grid-cols-3 grid-rows-3">
+                <div>
+                  {" "}
+                  <img src={nft2} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft3} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft5} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft7} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft9} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft11} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft13} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft15} alt="" />
+                </div>
+                <div>
+                  {" "}
+                  <img src={nft10} alt="" />
+                </div>
               </div>
-              <div>
-                <img src={nft2} alt="" />
+              <div className="grid grid-rows-2 grid-cols-2">
+                <div className="grid grid-rows-2 grid-cols-2">
+                  <div>
+                    {" "}
+                    <img src={nft6} alt="" />
+                  </div>
+                  <div>
+                    {" "}
+                    <img src={nft5} alt="" />
+                  </div>
+                  <div>
+                    {" "}
+                    <img src={nft12} alt="" />
+                  </div>
+                  <div>
+                    {" "}
+                    <img src={nft10} alt="" />
+                  </div>
+                </div>
+                <div className="grid grid-cols-2 grid-rows-2">
+                  <div>
+                    {" "}
+                    <img src={nft3} alt="" />
+                  </div>{" "}
+                  <div>
+                    {" "}
+                    <img src={nft5} alt="" />
+                  </div>{" "}
+                  <div>
+                    {" "}
+                    <img src={nft13} alt="" />
+                  </div>{" "}
+                  <div>
+                    {" "}
+                    <img src={nft10} alt="" />
+                  </div>
+                </div>
+                <div>
+                  <img src={nft6} alt="" />
+                </div>
+                <div>
+                  <img src={nft11} alt="" />
+                </div>
               </div>
             </div>
             <div className="grid grid-cols-2">
-              <div>
-                <img src={nft3} alt="" />
+              <div className="grid grid-cols-2 grid-rows-2">
+                <div>
+                  <img src={nft2} alt="" />
+                </div>
+                <div>
+                  <img src={nft11} alt="" />
+                </div>
+                <div>
+                  <img src={nft14} alt="" />
+                </div>
+                <div>
+                  <img src={nft13} alt="" />
+                </div>
               </div>
               <div className=" bg-red-300 grid grid-cols-2 grid-rows-2">
                 <div>
