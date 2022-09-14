@@ -140,7 +140,7 @@ const heatmap = () => {
                 <div className="grid grid-rows-2 grid-cols-2">
                   <div>
                     {" "}
-                    <img src={nft6} alt="" />
+                    <img src={nft7} alt="" />
                   </div>
                   <div>
                     {" "}
@@ -215,7 +215,7 @@ const heatmap = () => {
           <div className="grid grid-cols-2 grid-rows-2">
             <div className="grid grid-cols-3 grid-rows-3">
               <div>
-                <img src={nft3} alt="" />
+                <img src={nft13} alt="" />
               </div>
               <div>
                 <img src={nft7} alt="" />
@@ -344,22 +344,10 @@ const heatmap = () => {
                 <img src={nft9} alt="" />
               </div>
             </div>
-            <div className="grid grid-cols-2 grid-rows-2">
+            <div>
               <div>
                 {" "}
-                <img src={nft2} alt="" />
-              </div>
-              <div>
-                {" "}
-                <img src={nft14} alt="" />
-              </div>
-              <div>
-                {" "}
-                <img src={nft6} alt="" />
-              </div>
-              <div>
-                {" "}
-                <img src={nft11} alt="" />
+                <img src={nft7} alt="" />
               </div>
             </div>
             <div className=" bg-blue-500 grid grid-cols-2 grid-rows-2">
@@ -444,7 +432,7 @@ const heatmap = () => {
                   <img src={nft14} alt="" />
                 </div>
                 <div>
-                  <img src={nft12} alt="" />
+                  <img src={nft10} alt="" />
                 </div>
               </div>
               <div className="grid grid-cols-2 grid-rows-2">
